@@ -20,3 +20,5 @@
 </div>
 
 ##
+
+![Snake animation](https://github.com/SrMansour01/SrMansour01/blob/output/githun-contribution-grid-snake.svg)
