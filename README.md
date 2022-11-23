@@ -1,11 +1,17 @@
-### Olá! Eu sou Murilo Mansour
+<img width="100%" src="https://capsule-render.vercel.app/api?type=Waving&color=00bfbf&height=150&section=header&text=Murilo%20Mansour&fontSize=30&fontColor=fff&fontAlignY=35"/>
 
-- 👨‍🎓 Estudante de engenharia mecatronica na FIAP
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00bfbf&width=435&lines=Ol%C3%A1!;Meu+nome+%C3%A9+Murilo+Mansour;tenho+18+anos)](https://git.io/typing-svg)
 
 ##
 
-[![card](https://github-readme-stats.vercel.app/api?username=SrMansour01&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Snake animation](https://github.com/SrMansour01/SrMansour01/blob/output/github-contribution-grid-snake.svg)
+
+##
+
+
+<div dislpa="inline-block" >
+  <img src="https://github-readme-stats.vercel.app/api?username=SrMansour01&theme=transparent&show_icons=true&title_color=00bfbf&icon_color=00bfbf&border_color=121923"/>
+</div>
 
 ##
 
@@ -18,7 +24,3 @@
   <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"  />
 </div>
-
-##
-
-![Snake animation](https://github.com/SrMansour01/SrMansour01/blob/output/github-contribution-grid-snake.svg)
