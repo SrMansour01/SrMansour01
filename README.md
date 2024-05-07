@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=Waving&color=00bfbf&height=150&section=header&text=Murilo%20Mansour&fontSize=30&fontColor=fff&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00bfbf&width=435&lines=Ol%C3%A1!;Meu+nome+%C3%A9+Murilo+Mansour;tenho+19+anos;E+estou+estudando+para+me+tornar+um+desenvolvedor+FullStack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00bfbf&width=435&lines=Ol%C3%A1!;Meu+nome+%C3%A9+Murilo+Mansour;tenho+19+anos;E+estou+estudando+para+me+tornar+um;desenvolvedor+FullStack)](https://git.io/typing-svg)
 
 ##
 
